@@ -1,4 +1,4 @@
-# vuedemo
+# threejs在vue中的简单应用，3d模型放在public下面
 
 ## Project setup
 ```
@@ -9,16 +9,3 @@ npm install
 ```
 npm run serve
 ```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
